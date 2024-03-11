@@ -15,7 +15,6 @@ I'm constantly expanding my skill set and diving into new technologies. Currentl
 Feel free to check out some of the projects I've been working on. Your feedback and contributions are always welcome!
 
 ## 📫 Get in Touch
-- LinkedIn: [LinkedIn Profile](#https://www.linkedin.com/in/l%C3%A9o-fezard-0b304b21a/)
 - Email: leo.fezard33@gmail.com
 
 Thanks for dropping by! 🚀
