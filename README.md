@@ -9,7 +9,7 @@ I'm a 22-year-old web development enthusiast currently based in Bordeaux, France
 - **Languages:** PHP, Javascript, TypeScript,
 
 ## 🌱 Learning
-I'm constantly expanding my skill set and diving into new technologies. Currently, I'm exploring [Symfony and Svelte].
+I'm constantly expanding my skill set and diving into new technologies.
 
 ## 🚀 Projects
 Feel free to check out some of the projects I've been working on. Your feedback and contributions are always welcome!
