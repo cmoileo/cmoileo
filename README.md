@@ -4,7 +4,7 @@
 I'm a 22-year-old web development enthusiast currently based in Bordeaux, France. My passion lies in creating awesome web applications and exploring the ever-evolving world of technology.
 
 ## 🔧 Tech Stack
-- **Frontend:** React, Svelte, SCSS
+- **Frontend:** ReactJS, React Native, NextJS, Svelte, SveltKit, SCSS
 - **Backend:** Nest JS, Symfony, Node JS
 - **Languages:** PHP, Javascript, TypeScript,
 
