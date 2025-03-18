@@ -1,20 +1,14 @@
 # Hey there! 👋
 
 ## About Me
-I'm a 22-year-old web development enthusiast currently based in Bordeaux, France. My passion lies in creating awesome web applications and exploring the ever-evolving world of technology.
+I'm a 23-year-old web development enthusiast currently based in Bordeaux, France
 
 ## 🔧 Tech Stack
-- **Frontend:** ReactJS, React Native, NextJS, Svelte, SveltKit, SCSS
-- **Backend:** Nest JS, Symfony, Node JS
-- **Languages:** PHP, Javascript, TypeScript,
-
-## 🌱 Learning
-I'm constantly expanding my skill set and diving into new technologies.
-
-## 🚀 Projects
-Feel free to check out some of the projects I've been working on. Your feedback and contributions are always welcome!
+- **Frontend:** ReactJS, React Native, NextJS, Svelte, SveltKit, SCSS, Flutter
+- **Backend:** Nest JS, Laravel, Adonis
+- **Languages:** PHP, Javascript, TypeScript, Dart
 
 ## 📫 Get in Touch
-- Email: leo.fezard33@gmail.com
+- LinkedIn https://www.linkedin.com/in/leo-fezard/
 
 Thanks for dropping by! 🚀
